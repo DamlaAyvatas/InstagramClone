@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203407994898",
+    "project_id": "kotlininstaclone-4390b",
+    "storage_bucket": "kotlininstaclone-4390b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203407994898:android:d14d0c2328d169fa9ea8cb",
+        "android_client_info": {
+          "package_name": "com.damla.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203407994898-cfe6sthoiuej5jqrf6b3rbqac1d37n66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogAZa33NO6XqR3YgZvLXI0fO_G8Mkh_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203407994898-cfe6sthoiuej5jqrf6b3rbqac1d37n66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
